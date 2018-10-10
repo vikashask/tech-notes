@@ -11,3 +11,12 @@ TSLint
 TypeScript Hero
 
 Node.js Modules Intellisense
+
+Reactjs code snippets 
+ 
+TODO Highlight 
+ 
+Import Cost 
+  
+VSCode Icons 
+ 
