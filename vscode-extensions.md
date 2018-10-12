@@ -20,3 +20,4 @@ Import Cost
   
 VSCode Icons 
  
+GitLens
